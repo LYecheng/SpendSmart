@@ -1,0 +1,27 @@
+//
+//  ItemTableViewCell.h
+//  FinalSketch
+//
+//  Created by Yifan Xiao & Yecheng Li on 2/28/15.
+//  Copyright (c) 2015 Yifan Xiao & Yecheng Li. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ItemTableViewCell : UITableViewCell
+
+@property (strong, nonatomic) IBOutlet UIImageView *itemImage;
+
+@property (weak, nonatomic) IBOutlet UILabel *itemTitle;
+
+@property (weak, nonatomic) IBOutlet UILabel *itemDescription;
+
+@property (weak, nonatomic) IBOutlet UILabel *itemPrice;
+
+@property (weak, nonatomic) IBOutlet UIImageView *categoryImage;
+
+@property (weak, nonatomic) IBOutlet UILabel *dateLabel;
+
+@property (weak, nonatomic) IBOutlet UILabel *locationLabel;
+
+@end
