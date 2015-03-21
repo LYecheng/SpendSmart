@@ -3,7 +3,7 @@
 By Yifan Xiao & Yecheng Li
 
 
-SpendSmart is an iOS application designed to help iPhone users of any age group to maintain their personal account book. The App also provides clear categorical and monthly statistics in pie chart and line graph respectively. In addition, a map view of where users spent their money is available in this App. 
+SpendSmart is an iPhone application designed to help iPhone users of any age group to maintain their personal account book. The App also provides clear categorical and monthly statistics in pie chart and line graph respectively. In addition, a map view of where users spent their money is available in this App. 
 
 The App is a good balance of technical functionality and visual elements. Aiming at motivating people to keep their own financial record and to have a better idea of their financial status, this App enables people to create their own “financial diary” without fuss. Designed with the focus on maximizing user experience, the user interface, which facilitates user input efficiently, helps users to get on track right away. By adding visualized expenditure analysis and subtly animations, we ensured that fun, which every user deserves is not compromised.
 
